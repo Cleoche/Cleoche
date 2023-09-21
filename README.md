@@ -1,5 +1,5 @@
-Hi. My name is Cléo, and I do stuff occasionally.
+# Hiya! I'm Cléo.
 
-I'm an idiot.
+Welcome to my adhd fever dream.
 
-I have experience in <span style="color:green;">Python</span>, <span style="color:red;">Java</span>, <span style="color:yellow;">JavaScript</span>, and <span style="color:blue;">TypeScript</span>.
+I have experience in **Python**, **Java**, **C#**, **JavaScript**, and **TypeScript.
